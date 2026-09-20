@@ -97,9 +97,9 @@ $opcion = Read-Host "
 "
 
 # Definir URLs de las imágenes
-$fondoAgropaisa = "http://192.168.99.14:8880/DESCARGAS/10.Fondo/Fondo/NUEVO%20AGROPAISA.png"
-$fondoAgromilenio = "http://192.168.99.14:8880/DESCARGAS/10.Fondo/Fondo/fondo%20agromilenio.jpg"
-$fondoDucol = "http://192.168.99.14:8880/DESCARGAS/10.Fondo/Fondo/FONDO%20DUCOL.png"
+$fondoAgropaisa = $env:AGROPAISA_WALLPAPER
+$fondoAgromilenio = $env:AGROMILENIO_WALLPAPER
+$fondoDucol = $env:DUCOL_WALLPAPER
 
 # Definir ruta local para guardar el fondo
 $fondoLocal = "$env:USERPROFILE\Desktop\wallpaper.jpg"
