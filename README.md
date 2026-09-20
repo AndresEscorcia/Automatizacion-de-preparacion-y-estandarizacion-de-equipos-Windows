@@ -387,6 +387,9 @@ Consulta el archivo [`LICENSE`](./LICENSE) para conocer los términos completos 
 Proyecto desarrollado como parte de la exploración práctica de **automatización IT, administración de sistemas Windows, scripting y estandarización de infraestructura**.
 
 ---
+🌐 Conecta conmigo
+
+<p align="center"> <a href="https://andresescorcia.github.io/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> <a href="https://www.instagram.com/im_andresco/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> <a href="https://www.facebook.com/EscorciaPalacio15"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> </a> <a href="mailto:escorciaandres@hotmail.com"> <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"> </a> </p>
 
 ## 🔗 Repositorio
 
