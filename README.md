@@ -382,7 +382,7 @@ Consulta el archivo [`LICENSE`](./LICENSE) para conocer los términos completos 
 
 ## 👤 Autor
 
-**Andres Escorcia**
+**Harrison Andres Escorcia Palacio**
 
 Proyecto desarrollado como parte de la exploración práctica de **automatización IT, administración de sistemas Windows, scripting y estandarización de infraestructura**.
 
@@ -394,3 +394,7 @@ Proyecto desarrollado como parte de la exploración práctica de **automatizaci�
 ## 🔗 Repositorio
 
 [GitHub — Automatización de preparación y estandarización de equipos Windows](https://github.com/AndresEscorcia/Automatizacion-de-preparacion-y-estandarizacion-de-equipos-Windows)
+
+<p align="center">
+  <sub>Construido y mantenido por Harrison Andres Escorcia Palacio · 📍 Bucaramanga Colombia</sub>
+</p>
